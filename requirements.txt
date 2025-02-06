@@ -1,0 +1,6 @@
+opencv-python
+# audioop-lts
+torch
+gradio
+imageio
+imageio-ffmpeg
