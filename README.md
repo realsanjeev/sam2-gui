@@ -43,7 +43,7 @@ cd ..
 mv ../video_tracker.py .
 ```
 
-> **Quick Test**: Run the [Google Colab Notebook](https://colab.research.google.com/...) to tinker with SAM2 Video tracking.
+> **Quick Test**: Run the [Google Colab Notebook](https://colab.research.google.com/github/realsanjeev/sam2-gui/notebooks/SAM2.1-for-video-tracking.ipynb) to tinker with SAM2 Video tracking.
 
 ---
 
